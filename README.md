@@ -18,10 +18,10 @@
 # Baseado no projeto ATIVIDADE_PRATICA_POO_EAD_PARTE4 faça:
 a) faça o devido tratamento de exceção caso o usuário faça uma entrada de dados onde:
 #
-o número de pessoas que devem pagar a conta deve ser diferente de zero. Dica para o tratamento do erro: ArithmeticException
+* o número de pessoas que devem pagar a conta deve ser diferente de zero. Dica para o tratamento do erro: ArithmeticException
 #
-o usuário deve informar apenas números inteiros. Dica para o tratamento do erro: NumberFormatException
+* o usuário deve informar apenas números inteiros. Dica para o tratamento do erro: NumberFormatException
 #
-Dica para a estrutura da classe conforme a figura abaixo baseado no cenário hipotético.
+* Dica para a estrutura da classe conforme a figura abaixo baseado no cenário hipotético.
 #
 ![Captura de Tela_Área de Seleção_20191028171745](https://user-images.githubusercontent.com/57069179/67718817-ee55d280-f9a6-11e9-9fc5-6057be480ffe.png)
